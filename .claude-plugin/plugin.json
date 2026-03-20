@@ -1,0 +1,13 @@
+{
+  "name": "trace-analyzer",
+  "description": "Analyze Langfuse traces to diagnose Agent failures, identify error patterns, and generate actionable optimization recommendations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "UniBody"
+  },
+  "homepage": "https://github.com/UniBody/trace-analyzer",
+  "repository": "https://github.com/UniBody/trace-analyzer",
+  "license": "MIT",
+  "category": "observability",
+  "keywords": ["langfuse", "tracing", "agent", "llm", "observability", "debugging"]
+}

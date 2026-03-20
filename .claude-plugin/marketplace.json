@@ -1,0 +1,20 @@
+{
+  "name": "trace-analyzer",
+  "owner": {
+    "name": "UniBody"
+  },
+  "plugins": [
+    {
+      "name": "trace-analyzer",
+      "source": "./",
+      "description": "Analyze Langfuse traces to diagnose Agent failures, identify error patterns, and generate actionable optimization recommendations.",
+      "version": "1.0.0",
+      "author": {
+        "name": "UniBody"
+      },
+      "category": "observability",
+      "homepage": "https://github.com/UniBody/trace-analyzer",
+      "keywords": ["langfuse", "tracing", "agent", "observability", "debugging"]
+    }
+  ]
+}
